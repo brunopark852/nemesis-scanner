@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # 💀 NEMESIS V2.1 (God Mode)
 
 **NEMESIS** é um orquestrador de ataque para Bug Bounty. Ele automatiza todo o processo de Reconhecimento, Detecção de WAF e Escaneamento de Vulnerabilidades em múltiplos subdomínios simultaneamente.
